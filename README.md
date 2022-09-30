@@ -1,6 +1,6 @@
 ![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif)
 <h1 align="center">Hi 👋, I'm Shakib Sadat</h1>
-<h3 align="center">A Machine Learning an Data Science Enthusiast</h3>
+<h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-size_restricted.gif">
 - 🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning, Ai, Human Computer Interaction, Python, R**
 
