@@ -5,6 +5,6 @@
 
 - 📫 How to reach me **shakibsss080@gmail.com**
 
-- ![rsz_port](https://user-images.githubusercontent.com/62327880/209584204-54abb7b5-057e-4024-b582-f6b7e464867d.png) PORTFOLIO: https://shakib-sadat.github.io/portfolio/
+- ![rsz_1rsz_port](https://user-images.githubusercontent.com/62327880/209584295-7d812b63-f0f5-4c60-96d5-4dda01bd34d1.png) PORTFOLIO: https://shakib-sadat.github.io/portfolio/
 
 
