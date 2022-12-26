@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Machine Learning, Python, R**
 
 - 📫 How to reach me **shakibsss080@gmail.com**
-![image](https://user-images.githubusercontent.com/62327880/209584046-d737c9e7-5979-412a-8005-d64421831111.png) 
+
+![image](https://user-images.githubusercontent.com/62327880/209584073-9c690770-398a-4e7e-803a-e32455db1e52.png)
+
 
 
 
