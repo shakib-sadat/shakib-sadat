@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shakib Sadat</h1>
 <h3 align="center">A Machine Learning and Data Science enthusiast</h3>
 
-- Research Assistant Intern at AIUB
+- Research Assistant at AIUB
 - 🌱 Focused On **Machine Learning, Deep Learning, Computer Vision**
 - 🌱 <a href="https://www.linkedin.com/in/shakib-sadat-shanto-22b982211/"><em> Linkedin </em></a> <a href="https://www.researchgate.net/profile/Shakib-Shanto"><em> ResearchGate </em></a>
 - 📫 *Reach Out* at **shakibsss080@gmail.com**
