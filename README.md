@@ -2,7 +2,7 @@
 <h3 align="center">A Machine Learning and Data Science enthusiast</h3>
 
 - Research Assistant at AIUB
-- 🌱 Focused On **Machine Learning, Deep Learning, Computer Vision**
+- 🌱 Focused On **Educational Technology, Natural Language Processing, Machine Learning, Deep Learning**
 - 🌱 <a href="https://www.linkedin.com/in/shakib-sadat-shanto-22b982211/"><em> Linkedin </em></a> <a href="https://www.researchgate.net/profile/Shakib-Shanto"><em> ResearchGate </em></a>
 - 📫 *Reach Out* at **shakibsss080@gmail.com**
 
